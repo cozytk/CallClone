@@ -14,6 +14,7 @@ struct ContentView: View {
             Text("4 5 6")
             Text("7 8 9")
             Text("* 0 +")
+            Text("Tab Bar")
         }
         .padding()
     }
